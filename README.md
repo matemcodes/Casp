@@ -51,4 +51,4 @@ This script was created for my specific work-related projects. If you plan to us
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-If you're interested in this or you'd like a specific solution for your need, feel free to contact me at: mail@matem.hu
+If you're interested in this or you'd like a specific solution for your need, feel free to contact me at: github@matem.hu
